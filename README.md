@@ -5,7 +5,10 @@
 - discord token key
 - tenor token key
 - Nasa token key
-
+### get those APIs from:
+- disocrd = https://discord.com/developers/applications
+- tenor = https://tenor.com/developer/keyregistration
+- nasa = https://api.nasa.gov
 ### instructions installation  :
 * 1 : you need latest version of **python** && **pip**
 > https://www.python.org/downloads/
